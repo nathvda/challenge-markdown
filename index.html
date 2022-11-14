@@ -4,7 +4,7 @@
 
 ![A picture of me](https://cdn.discordapp.com/attachments/527832400395501569/1041666547657211995/IMG_20220811_162756.jpg)
 
-## Me, in one sentence.
+## Just a random reader, lost in an endless library.
 
 | Label | Infos |
 | -------- | ----- |
