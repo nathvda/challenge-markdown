@@ -12,7 +12,9 @@
 | Gender | Female |
 | Favorite color | Yellow |
 | Favorite food | Bibimbap |
-| Pineapple on pizza | -[ X ] Yes -[ ] No |
+| Pineapple on pizza |
+ - [ X ] Yes 
+ - [ ] No |
 
 ## Hobbies
 - Drawing
