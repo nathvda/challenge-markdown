@@ -46,4 +46,4 @@ When I was younger, I used to make spectacles for my parents and I always asked 
 ### TL;DR
 I had to go on stage and fell in front of the whole audience.
 
-<< [previous]() || NATHALIE VANDEN ABEELE || [next]() >>
+<< [previous](https://github.com/LysieSoyez/challenge-markdown) || NATHALIE VANDEN ABEELE || [next](https://github.com/CV136/challenge-markdown) >>
