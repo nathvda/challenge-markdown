@@ -6,11 +6,13 @@
 
 ## Me, in one sentence.
 
+| Label | Infos |
+| -------- | ----- |
 | Birthday | 16/06 |
 | Gender | Female |
 | Favorite color | Yellow |
 | Favorite food | Bibimbap |
-| Pineapple on pizza | [ X ] Yes [ ] No |
+| Pineapple on pizza | -[ X ] Yes -[ ] No |
 
 ## Hobbies
 - Drawing
